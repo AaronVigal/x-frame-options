@@ -17,14 +17,18 @@ use
 ```html
 <iframe src="http://localhost:3000?url=https://example.com/"></iframe>
 ```
+or use 
+```html
+<iframesrc="http://x-frame-options-bypasser.herokuapp.com/?url=https://example.com/"></iframe>
+```
 
 ## Demo
-[live demo](http://x-frame-options-bypass.herokuapp.com/)
+[live demo](http://x-frame-options-bypasser.herokuapp.com/)
 
 ---
 
-[nodejs](http://x-frame-options-bypass.herokuapp.com/?url=https://nodejs.org/en/)
+[nodejs](http://x-frame-options-bypasser.herokuapp.com/?url=https://nodejs.org/en/)
 
-[stackoverflow](http://x-frame-options-bypass.herokuapp.com/?url=https://stackoverflow.com)
+[stackoverflow](http://x-frame-options-bypasser.herokuapp.com/?url=https://stackoverflow.com)
 
-[github](http://x-frame-options-bypass.herokuapp.com/?url=https://github.com/)
+[github](http://x-frame-options-bypasser.herokuapp.com/?url=https://github.com/)
